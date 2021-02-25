@@ -1,0 +1,9 @@
+*.7z
+*.pdf
+*.zip
+node_modules
+testData.json
+output/mutations/*
+output/logs/*
+output/extracted/*
+output/combinations/*
