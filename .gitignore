@@ -7,3 +7,4 @@ output/mutations/*
 output/logs/*
 output/extracted/*
 output/combinations/*
+*.DS_Store
